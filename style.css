@@ -34,7 +34,7 @@ main {
   border-radius: 20px 20px 20px 20px;
 }
 
-.section__box1 h6 {
+.section__box1 h1 {
   font-size: 1rem;
   color: var(--grey);
   font-family: "Hanken Grotesk";
@@ -304,7 +304,7 @@ main {
   }
 
   .section__list {
-    gap: 10px;
+    gap: px;
   }
 
   .section__list--list1,
